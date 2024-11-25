@@ -1,1 +1,1 @@
-# MonteCarloProject1
+Celem projektu jest generowanie i analiza liczb pseudolosowych za pomocą testów statystycznych. Użyte generatory to LCG, GLCG, RC4 oraz Xorshift. Wykorzystane są testy chi kwadrat, Kołmogorowa-Smirnowa, serii, a także frequency monobit test.
